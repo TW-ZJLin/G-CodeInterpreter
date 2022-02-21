@@ -9,7 +9,8 @@ Input: NC files with G-code(.txt, .nc, etc.) as shown below.<br>
 ![](https://github.com/TW-ZJLin/G-CodeInterpreter/blob/main/Figures/NCfile.jpg)<br>
 
 Output: Numpy array with 2 dimensions (N*5) where N means number of nodes.<br>
-        X, Y, Z, R, F for each columns mean X, Y, Z axis position, Radius and Feed rate as shown below.<br>
+        X, Y, Z, R, F for each columns denote X, Y, Z axis position, Radius and Feed rate.<br>
+        \t as shown below.<br>
 ![](https://github.com/TW-ZJLin/G-CodeInterpreter/blob/main/Figures/DataArray.jpg)<br>
 
 ## Sample
