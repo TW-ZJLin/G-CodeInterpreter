@@ -6,10 +6,10 @@ And implement 3D visualization with plotly.<br>
 
 ## input output format
 Input: NC files with G-code(.txt, .nc, etc.) as shown below.<br>
-![]("https://github.com/TW-ZJLin/G-CodeInterpreter/blob/main/Figures/NC file.jpg")<br>
+![]("https://github.com/TW-ZJLin/G-CodeInterpreter/blob/main/Figures/NCfile.jpg")<br>
 
 Output: Numpy array with X, Y, Z, R, F for each columns as shown below.<br>
-![]("https://github.com/TW-ZJLin/G-CodeInterpreter/blob/main/Figures/data array.jpg")<br>
+![]("https://github.com/TW-ZJLin/G-CodeInterpreter/blob/main/Figures/DataArray.jpg")<br>
 
 ## Case 1 <br>
 ![](https://github.com/TW-ZJLin/G-CodeInterpreter/blob/main/Figures/Case1.png)<br>
