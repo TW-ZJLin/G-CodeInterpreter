@@ -10,6 +10,7 @@ Input: NC files with G-code(.txt, .nc, etc.) as shown below.<br>
 
 Output: Numpy array with 2 dimensions (N*5) where N means number of nodes.<br>
         X, Y, Z, R, F for each columns denote X, Y, Z axis position, Radius and Feed rate.<br>
+        where R<0: CW circle; R>0: CCW circle; R=0: straight line<>
 ![](https://github.com/TW-ZJLin/G-CodeInterpreter/blob/main/Figures/DataArray.jpg)<br>
 
 ## Sample
