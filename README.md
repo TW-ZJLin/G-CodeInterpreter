@@ -1,5 +1,5 @@
-# G-CodeInterpreter
-G-Code Interpreter and 3D visualization for CNC code.
+# NC-CodeInterpreter
+NC-Code Interpreter and 3D visualization for CNC code.
 ## Introduction
 This program can reads NC files(.txt, .nc, etc.) and converts them into arrays.<br>
 And implement 3D visualization with plotly.<br>
