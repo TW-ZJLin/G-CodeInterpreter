@@ -1,6 +1,7 @@
 # NC-CodeInterpreter
 NC-Code Interpreter and 3D visualization for CNC code.
 ## Introduction
+NC-code is the tool path program used by CNC machine tools during machining.<br>
 This program can reads NC files(.txt, .nc, etc.) and converts them into arrays.<br>
 And implement 3D visualization with plotly.<br>
 
