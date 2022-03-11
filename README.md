@@ -19,10 +19,10 @@ Output: Numpy array with 2 dimensions [N,5].<br> where N means number of nodes.<
 ![](https://github.com/TW-ZJLin/G-CodeInterpreter/blob/main/Figures/Case1.png)<br>
 
 ### Case 2 <br>
-![](https://github.com/TW-ZJLin/G-CodeInterpreter/blob/main/Figures/O1001(賓士模Part1).jpg)<br>
+![](https://github.com/TW-ZJLin/G-CodeInterpreter/blob/main/Figures/O1001(Benz_Part1).jpg)<br>
 ![](https://github.com/TW-ZJLin/G-CodeInterpreter/blob/main/Figures/Case2-1.png)<br>
 ![](https://github.com/TW-ZJLin/G-CodeInterpreter/blob/main/Figures/Case2-2.png)<br>
 
 ### Case 3 <br>
-![](https://github.com/TW-ZJLin/G-CodeInterpreter/blob/main/Figures/O1001(賓士模Part2).jpg)<br>
+![](https://github.com/TW-ZJLin/G-CodeInterpreter/blob/main/Figures/O1001(Benz_Part2).jpg)<br>
 ![](https://github.com/TW-ZJLin/G-CodeInterpreter/blob/main/Figures/Case3.png)<br>
