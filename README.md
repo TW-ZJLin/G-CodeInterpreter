@@ -15,21 +15,23 @@ Output: Numpy array with 2 dimensions [N,5].<br> where N means number of nodes.<
 ![](https://github.com/TW-ZJLin/G-CodeInterpreter/blob/main/Figures/DataArray.jpg)<br>
 
 ## Sample
-### Case 1 <br>
-tool path 3D visualization with testing path:<br>
+### Case 1 - testing path<br>
+NC file:<br>
+![](https://github.com/TW-ZJLin/G-CodeInterpreter/blob/main/Figures/110_testing_path.jpg)<br>
+tool path 3D visualization:<br>
 ![](https://github.com/TW-ZJLin/G-CodeInterpreter/blob/main/Figures/Case1.png)<br>
 
-### Case 2 <br>
-NC file with Benz_Part1:<br>
+### Case 2 - Benz_Part1<br>
+NC file:<br>
 ![](https://github.com/TW-ZJLin/G-CodeInterpreter/blob/main/Figures/O1001(Benz_Part1).jpg)<br>
 
-tool path 3D visualization with Benz_Part1:<br>
+tool path 3D visualization:<br>
 ![](https://github.com/TW-ZJLin/G-CodeInterpreter/blob/main/Figures/Case2-1.png)<br>
 ![](https://github.com/TW-ZJLin/G-CodeInterpreter/blob/main/Figures/Case2-2.png)<br>
 
-### Case 3 <br>
-NC file with Benz_Part2:<br>
+### Case 3 - Benz_Part2<br>
+NC file:<br>
 ![](https://github.com/TW-ZJLin/G-CodeInterpreter/blob/main/Figures/O2001(Benz_Part2).jpg)<br>
 
-tool path 3D visualization with Benz_Part2:<br>
+tool path 3D visualization:<br>
 ![](https://github.com/TW-ZJLin/G-CodeInterpreter/blob/main/Figures/Case3.png)<br>
