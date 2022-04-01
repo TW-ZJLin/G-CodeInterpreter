@@ -1,4 +1,4 @@
-# NC-CodeInterpreter
+# NC-Code Interpreter
 NC-Code Interpreter and 3D visualization for CNC code.
 ## Introduction
 NC-code is the tool path program used by CNC machine tools during machining.<br>
